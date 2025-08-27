@@ -1,5 +1,6 @@
-#!/bin/bash
+# Q.1) Write a Shell Script to arrange the elements of the array number = {9, 4, 7, 6, 2, 5, 3} in  ascending order. 
  
+#!/bin/bash
 number=(9 4 7 6 2 5 3)
 
 n=${#number[@]} #length of array
