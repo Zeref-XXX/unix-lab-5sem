@@ -1,0 +1,4 @@
+01.sh
+f1.txt
+OS and Network Lab Assignment-5.pdf
+/home/zeref/Desktop/class/unix/lab-05
