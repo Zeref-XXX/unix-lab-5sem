@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include <conio.h>
 int main() {
     FILE *f = fopen("output_p1.txt", "w");
     if (f == NULL) {
